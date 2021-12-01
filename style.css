@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    margin-top: 50px;
+    padding: 0;
+    text-align: center;
+}
+
+.button {
+    margin: 30px;
+    display: inline-block;
+}
+
+.space {
+    margin: 30px;
+}
+
+h1 {
+    margin-bottom: 50px;
+}
